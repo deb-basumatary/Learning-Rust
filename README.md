@@ -25,3 +25,13 @@ The installation of Rust also includes a local copy of the documentation so that
 ```sh
 $ cargo new <project-name>
 ```
+### Compile and Run Rust Code
+For directly compiling a source code.
+```sh
+$ rustc main.rs 
+$ ./main
+```
+Build for production ready application 
+```sh
+$ cargo build
+```
