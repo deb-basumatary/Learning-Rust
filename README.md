@@ -31,7 +31,7 @@ For directly compiling a source code.
 $ rustc main.rs 
 $ ./main
 ```
-Build for production ready application 
+Build application (Download, & link dependencies and other)
 ```sh
 $ cargo build
 ```
