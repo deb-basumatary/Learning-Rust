@@ -1,5 +1,5 @@
 fn main() {
-    println!("Hello, world!");
-    
+    println!("Hello, world!"); // ! makes it a macro not a function. More on it later.
+
 }
 
